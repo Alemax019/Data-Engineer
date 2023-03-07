@@ -3,7 +3,7 @@
 
 <br>
 
-¡Hola! Soy *Yamila Galiano* y este es mi primer proyecto del bootcamp de Data Science en SoyHenry, enfocado en Data Engineer.
+¡Hola! Soy *Cristian Alexander Garcia* y este es mi primer proyecto del bootcamp de Data Science en SoyHenry, enfocado en Data Engineer
 
 <hr>  
 
@@ -34,9 +34,6 @@ Como parte del equipo de data de una empresa, el área de análisis de datos sol
     * Unificar los data sets en uno. 
 2. Desarrollo API: Para disponibilizar los datos la empresa usa el framework FastAPI. 
 3. Deployment: Utilizamos Deta.
-
-Estos pasos se encuentran detallados en el siguiente video: 
-https://www.loom.com/share/bda00889797b4b5e88aa20b0039626c4
 
 <br/>
 
@@ -70,6 +67,6 @@ https://www.loom.com/share/bda00889797b4b5e88aa20b0039626c4
 ## Conclusión
 En este proyecto su pudo integrar los conocimientos obtenidos en el bootcamp respecto a Python y aprender nuevas tecnnologías para utilizar como FastApi y Deta. Como Deta tiene poca documentación respecto a errores y consultas, fue un desafío realizarlo y un gran aprendizaje. 
 
-Contacto:  <a href="https://www.linkedin.com/in/yamila-galiano-ba7083121"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"></a>  
+Contacto:  <a href="https://www.linkedin.com/in/alemax019/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"></a>  
 
 Saludos!
